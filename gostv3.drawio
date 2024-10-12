@@ -1,11 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="683" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1595" dy="1443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="rkyv2fDa6qon6MMbOCkm-1" value="gost v3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="-149" width="120" height="60" as="geometry" />
+          <mxGeometry x="-185" y="-382" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-2" value="Service（服务）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="-516" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-4" value="Node（节点）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-6" value="Hop（跳跃点）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="-325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-8" value="Chain（转发链）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="-229" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-12" value="Listener" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-522" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-13" value="Handler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-489" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-14" value="Dialer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108" y="-423" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-15" value="Connector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108" y="-393" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-16" value="Node1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108" y="-325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-17" value="Node2……" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-18" value="Hop Group" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111" y="-217" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-19" value="Hop1-&amp;gt;Hop3-&amp;gt;Hop2……（0-n Hops）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-214" width="246" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
