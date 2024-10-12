@@ -1,47 +1,110 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1595" dy="1443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2395" dy="1443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="rkyv2fDa6qon6MMbOCkm-1" value="gost v3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-185" y="-382" width="120" height="60" as="geometry" />
+          <mxGeometry x="-636" y="-627" width="103" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="rkyv2fDa6qon6MMbOCkm-2" value="Service（服务）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-26" y="-516" width="120" height="60" as="geometry" />
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-2" value="Service（服务）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rkyv2fDa6qon6MMbOCkm-4" value="Node（节点）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-26" y="-420" width="120" height="60" as="geometry" />
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-4" value="Node（节点）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="-424" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rkyv2fDa6qon6MMbOCkm-6" value="Hop（跳跃点）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-26" y="-325" width="120" height="60" as="geometry" />
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-6" value="Hop（跳跃点）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="-329" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rkyv2fDa6qon6MMbOCkm-8" value="Chain（转发链）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-26" y="-229" width="120" height="60" as="geometry" />
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-8" value="Chain（转发链）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="-233" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkyv2fDa6qon6MMbOCkm-12" value="Listener" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="-522" width="60" height="30" as="geometry" />
+          <mxGeometry x="-44" y="-526" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rkyv2fDa6qon6MMbOCkm-13" value="Handler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="-489" width="60" height="30" as="geometry" />
+          <mxGeometry x="-44" y="-493" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rkyv2fDa6qon6MMbOCkm-14" value="Dialer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="108" y="-423" width="60" height="30" as="geometry" />
+          <mxGeometry x="-51" y="-427" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rkyv2fDa6qon6MMbOCkm-15" value="Connector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="108" y="-393" width="60" height="30" as="geometry" />
+          <mxGeometry x="-51" y="-397" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rkyv2fDa6qon6MMbOCkm-16" value="Node1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="108" y="-325" width="60" height="30" as="geometry" />
+          <mxGeometry x="-51" y="-329" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rkyv2fDa6qon6MMbOCkm-17" value="Node2……" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="-295" width="60" height="30" as="geometry" />
+          <mxGeometry x="-44" y="-299" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rkyv2fDa6qon6MMbOCkm-18" value="Hop Group" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="111" y="-217" width="60" height="30" as="geometry" />
+          <mxGeometry x="-48" y="-221" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rkyv2fDa6qon6MMbOCkm-19" value="Hop1-&amp;gt;Hop3-&amp;gt;Hop2……（0-n Hops）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-214" width="246" height="30" as="geometry" />
+          <mxGeometry y="-229" width="246" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-25" value="Listener（监听器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-358" y="-516" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-26" value="Handler（处理器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-358" y="-444" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-27" value="Dialer（拨号器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-358" y="-299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-28" value="Connector（连接器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-358" y="-227" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-29" value="Forwader（转发器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-358" y="-372" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-30" value="Selector（节点选择器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-504" y="-135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-31" value="Admission（准入控制器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="-135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-32" value="Bypass（分流器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="-135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-33" value="Resolver（域名解析器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="-135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-34" value="Hosts（主机映射器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="94" y="-135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-35" value="Limiter（限速器）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="243" y="-135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-36" value="转发时，根据转发策略（Selector、Bypass）在每个Hop中选取一个Node，最终构成一条Route（转发路径）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="16" y="-197" width="313" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-37" value="Service(Listener&amp;amp;Handler)&lt;br&gt;在本地打开指定的端口&lt;div&gt;数据收发&lt;/div&gt;&lt;div&gt;通道建立和初始化（加解密……）&lt;/div&gt;&lt;div&gt;客户端数据交互&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-622" y="-507" width="282" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-38" value="Listener的逻辑抽象层&lt;div&gt;处理实际请求数据&lt;/div&gt;&lt;div&gt;路由判断&lt;/div&gt;&lt;div&gt;域名解析&lt;/div&gt;&lt;div&gt;权限控制&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-616" y="-427" width="284" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-39" value="端口转发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-546" y="-353" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-40" value="Handler--&amp;gt;Forwarder(Nodes&amp;amp;Selector)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-822" y="-357" width="298" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-41" value="与Listener对应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-546" y="-286" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-42" value="Dialer的逻辑抽象层&lt;br&gt;与Handler对应&lt;br&gt;Dialer&amp;lt;--&amp;gt;Service建立数据通道后，负责实际请求数据的处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-556" y="-224" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-43" value="数据的出入口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-507" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-44" value="数据通道层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fillOpacity=100;imageHeight=12;" vertex="1" parent="1">
+          <mxGeometry x="222" y="-500" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="rkyv2fDa6qon6MMbOCkm-45" value="数据处理层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fillOpacity=100;imageHeight=12;" vertex="1" parent="1">
+          <mxGeometry x="222" y="-453" width="120" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
